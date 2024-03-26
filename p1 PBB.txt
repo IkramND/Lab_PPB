@@ -1,0 +1,29 @@
+download node js
+cek node -V
+cek npm -v
+npm install -g expo-cli
+expo -V
+bikin folder npm_ProjectPBB
+ke folder terus cmd
+ketik (npx create-expo-app my-app)
+cd my-app
+cari di vscode js jsx
+cari es7 react
+ke cmd npx expo start
+kalo gabisa npx install/npm install di my appnya
+terus pencet w
+ada link salin terus copy
+ctrl c buat apus commandnya
+ctrl v buat naro link
+pencet w lagi
+terus kebuka browser
+pencet f12 buat buka extensionnya
+cari toogle device toolbar terus ganti ke iphone SE
+ke vscode
+bikin folder components
+bikin file Car.js
+ketik rncc
+tambahin <Text>Hello World!</Text> cari textnya yang urutan ketiga
+ke App.js apus line dibawah view ganti ke <Car />
+tambahin import Car from './components/car'; kalo belom ada importnya pas masukin <Car / >
+
